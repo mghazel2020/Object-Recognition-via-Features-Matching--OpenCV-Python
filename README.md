@@ -27,7 +27,6 @@ In this section, we shall implement and illustrate a selected set of image featu
 Next, we present the input query and scene images.
 
 
-
 ## 3.  Input Images
 
 The query and scene images are illustrated in the figure below. Our objective is to detect and localize the query image in the scene image.
